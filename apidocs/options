@@ -1,0 +1,24 @@
+-classpath
+'/home/jake/Dropbox/Projects/domainr-java/target/checkout/target/classes:/home/jake/.m2/repository/com/google/code/gson/gson/1.6/gson-1.6.jar:/home/jake/.m2/repository/com/jakewharton/apibuilder/1.1.0/apibuilder-1.1.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/jake/Dropbox/Projects/domainr-java/target/checkout/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2011 <a href="http://jakewharton.com">Jake Wharton</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jake/Dropbox/Projects/domainr-java/target/checkout/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Domainr Java API Wrapper 1.0.0 API'
+-link
+'http://download.oracle.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'Domainr Java API Wrapper 1.0.0 API'
